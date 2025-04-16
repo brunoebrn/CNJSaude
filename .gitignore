@@ -1,9 +1,3 @@
-# Ignorar todos os arquivos nas subpastas de AnaliseBR
-AnaliseBR/**/*
-
-# Permitir apenas arquivos .keep
-!AnaliseBR/**/*.keep
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -178,3 +172,67 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/AnaliseBR/CO/TJDFT_CN.csv
+/AnaliseBR/CO/TJDFT_CN.csv.zip
+/AnaliseBR/CO/TJGO_CN.csv
+/AnaliseBR/CO/TJGO_CN.csv.zip
+/AnaliseBR/CO/TJMS_CN.csv
+/AnaliseBR/CO/TJMS_CN.csv.zip
+/AnaliseBR/CO/TJMT_CN.csv
+/AnaliseBR/CO/TJMT_CN.csv.zip
+/AnaliseBR/Exemplo/
+/AnaliseBR/NE/TJAL_CN.csv
+/AnaliseBR/NE/TJAL_CN.csv.zip
+/AnaliseBR/NE/TJBA_CN.csv
+/AnaliseBR/NE/TJBA_CN.csv.zip
+/AnaliseBR/NE/TJCE_CN.csv
+/AnaliseBR/NE/TJCE_CN.csv.zip
+/AnaliseBR/NE/TJMA_CN.csv
+/AnaliseBR/NE/TJMA_CN.csv.zip
+/AnaliseBR/NE/TJPB_CN.csv
+/AnaliseBR/NE/TJPB_CN.csv.zip
+/AnaliseBR/NE/TJPE_CN.csv
+/AnaliseBR/NE/TJPE_CN.csv.zip
+/AnaliseBR/NE/TJPI_CN.csv
+/AnaliseBR/NE/TJPI_CN.csv.zip
+/AnaliseBR/NE/TJRN_CN.csv
+/AnaliseBR/NE/TJRN_CN.csv.zip
+/AnaliseBR/NE/TJSE_CN.csv
+/AnaliseBR/NE/TJSE_CN.csv.zip
+/AnaliseBR/NO/TJAC_CN.csv
+/AnaliseBR/NO/TJAC_CN.csv.zip
+/AnaliseBR/NO/TJAM_CN.csv
+/AnaliseBR/NO/TJAM_CN.csv.zip
+/AnaliseBR/NO/TJAP_CN.csv
+/AnaliseBR/NO/TJAP_CN.csv.zip
+/AnaliseBR/NO/TJPA_CN.csv
+/AnaliseBR/NO/TJPA_CN.csv.zip
+/AnaliseBR/SE/TJES_CN.csv
+/AnaliseBR/SE/TJES_CN.csv.zip
+/AnaliseBR/SE/TJMG_CN.csv
+/AnaliseBR/SE/TJMG_CN.csv.zip
+/AnaliseBR/SE/TJRJ_CN.csv
+/AnaliseBR/SE/TJRJ_CN.csv.zip
+/AnaliseBR/SE/TJSP_CN.zip
+/AnaliseBR/SE/TJSP_CN_1-4.csv
+/AnaliseBR/SE/TJSP_CN_2-4.csv
+/AnaliseBR/SE/TJSP_CN_3-4.csv
+/AnaliseBR/SE/TJSP_CN_4-4.csv
+/AnaliseBR/SU/TJPR_CN.csv
+/AnaliseBR/SU/TJPR_CN.csv.zip
+/AnaliseBR/SU/TJRS_CN.csv
+/AnaliseBR/SU/TJRS_CN.csv.zip
+/AnaliseBR/SU/TJSC_CN.csv
+/AnaliseBR/SU/TJSC_CN.csv.zip
+/AnaliseBR/TRFs/TRF1_CN.csv
+/AnaliseBR/TRFs/TRF1_CN.csv.zip
+/AnaliseBR/TRFs/TRF2_CN.csv
+/AnaliseBR/TRFs/TRF2_CN.csv.zip
+/AnaliseBR/TRFs/TRF3_CN.csv
+/AnaliseBR/TRFs/TRF3_CN.csv.zip
+/AnaliseBR/TRFs/TRF4_CN.csv
+/AnaliseBR/TRFs/TRF4_CN.csv.zip
+/AnaliseBR/TRFs/TRF5_CN.csv
+/AnaliseBR/TRFs/TRF5_CN.csv.zip
+/AnaliseBR/TRFs/TRF6_CN.csv
+/AnaliseBR/TRFs/TRF6_CN.csv.zip
