@@ -1,8 +1,8 @@
-# Ignorar todos os arquivos nas subpastas de AnaliseBR
-AnaliseBR/**/*
-
 # Permitir apenas arquivos .keep
-!AnaliseBR/**/*.keep
+!AnaliseBR/*/*.keep
+
+# Ignorar todos os arquivos nas subpastas de AnaliseBR
+AnaliseBR/*/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
